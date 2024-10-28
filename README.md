@@ -12,8 +12,5 @@ This repository includes Python tutorials and assignments to support the coursew
 ## Maintainer
 This repository is maintained by Mohammad Javad Goodarzi, a teaching assistant for the Complementary Macroeconomics course, focusing on Python applications.
 
-## Professor
-Professor's GitHub Page
-
 ## Contact
 For any questions or issues, please contact me at javadgoodarzi@hotmail.com.
